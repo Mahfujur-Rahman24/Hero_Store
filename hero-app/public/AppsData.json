@@ -1,0 +1,848 @@
+[
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg",
+    "title": "Spotify Music",
+    "companyName": "Spotify AB",
+    "id": 1,
+    "description": "Stream millions of songs, podcasts, and playlists from artists around the world.",
+    "size": 95,
+    "reviews": "4.3K",
+    "ratingAvg": 4.5,
+    "downloads": "1000M",
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 1000000 },
+      { "name": "3 star", "count": 4000000 },
+      { "name": "4 star", "count": 7000000 },
+      { "name": "5 star", "count": 29000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png",
+    "title": "Instagram",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 2,
+    "description": "Share photos, stories, and connect with friends across the world.",
+    "size": 130,
+    "reviews": "155M",
+    "ratingAvg": 4.3,
+    "downloads": "5000M",
+    "ratings": [
+      { "name": "1 star", "count": 10000000 },
+      { "name": "2 star", "count": 5000000 },
+      { "name": "3 star", "count": 12000000 },
+      { "name": "4 star", "count": 24000000 },
+      { "name": "5 star", "count": 103000000 }
+    ]
+  },
+  {
+    "image": "https://png.pngtree.com/png-vector/20231017/ourmid/pngtree-youtube-play-button-sign-video-icon-logo-online-broadcasting-service-symbol-png-image_10292108.png",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "id": 3,
+    "description": "Watch, upload, and share videos from creators around the world.",
+    "size": 115,
+    "reviews": "14.5K",
+    "ratingAvg": 4.4,
+    "downloads": "10000M",
+    "ratings": [
+      { "name": "1 star", "count": 8000000 },
+      { "name": "2 star", "count": 5000000 },
+      { "name": "3 star", "count": 9000000 },
+      { "name": "4 star", "count": 22000000 },
+      { "name": "5 star", "count": 104000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/c/c4/Snapchat_logo.svg",
+    "title": "Snapchat",
+    "companyName": "Snap Inc.",
+    "id": 4,
+    "description": "Snap moments, chat with friends, and explore short videos and stories.",
+    "size": 95,
+    "reviews": "34M",
+    "ratingAvg": 4.2,
+    "downloads": "1000M",
+    "ratings": [
+      { "name": "1 star", "count": 2500000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 3500000 },
+      { "name": "4 star", "count": 8000000 },
+      { "name": "5 star", "count": 18000000 }
+    ]
+  },
+  {
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/016/716/485/small/tiktok-icon-free-png.png",
+    "title": "TikTok",
+    "companyName": "TikTok Pte. Ltd.",
+    "id": 5,
+    "description": "Create and discover short videos with fun music and effects.",
+    "size": 120,
+    "reviews": "95M",
+    "ratingAvg": 4.4,
+    "downloads": "5000M",
+    "ratings": [
+      { "name": "1 star", "count": 6000000 },
+      { "name": "2 star", "count": 4000000 },
+      { "name": "3 star", "count": 9000000 },
+      { "name": "4 star", "count": 19000000 },
+      { "name": "5 star", "count": 57000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Netflix_icon.svg/2048px-Netflix_icon.svg.png",
+    "title": "Netflix",
+    "companyName": "Netflix, Inc.",
+    "id": 6,
+    "description": "Watch your favorite TV shows, movies, and exclusive Netflix Originals.",
+    "size": 80,
+    "reviews": "12.5M",
+    "ratingAvg": 4.5,
+    "downloads": "1000M",
+    "ratings": [
+      { "name": "1 star", "count": 900000 },
+      { "name": "2 star", "count": 700000 },
+      { "name": "3 star", "count": 1500000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "5 star", "count": 7400000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg",
+    "title": "Telegram",
+    "companyName": "Telegram FZ-LLC",
+    "id": 7,
+    "description": "Fast, secure messaging app with cloud sync and powerful privacy features.",
+    "size": 70,
+    "reviews": "12M",
+    "ratingAvg": 4.6,
+    "downloads": "1000M",
+    "ratings": [
+      { "name": "1 star", "count": 700000 },
+      { "name": "2 star", "count": 500000 },
+      { "name": "3 star", "count": 1000000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 7300000 }
+    ]
+  },
+  {
+    "image": "https://static.vecteezy.com/system/resources/previews/048/759/334/non_2x/canva-transparent-icon-free-png.png",
+    "title": "Canva",
+    "companyName": "Canva",
+    "id": 8,
+    "description": "Design stunning graphics, presentations, and social media posts easily.",
+    "size": 85,
+    "reviews": "11M",
+    "ratingAvg": 4.8,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 2000000 },
+      { "name": "5 star", "count": 7500000 }
+    ]
+  },
+  {
+    "image": "https://images.vexels.com/media/users/3/137419/isolated/svg/b1a3fab214230557053ed1c4bf17b46c.svg",
+    "title": "Twitter (X)",
+    "companyName": "X Corp.",
+    "id": 9,
+    "description": "Stay updated with global news, trends, and conversations in real time.",
+    "size": 110,
+    "reviews": "90M",
+    "ratingAvg": 4.1,
+    "downloads": "1000M",
+    "ratings": [
+      { "name": "1 star", "count": 8000000 },
+      { "name": "2 star", "count": 4000000 },
+      { "name": "3 star", "count": 7000000 },
+      { "name": "4 star", "count": 14000000 },
+      { "name": "5 star", "count": 57000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
+    "title": "WhatsApp Messenger",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 10,
+    "description": "Fast, secure messaging and calling for free worldwide.",
+    "size": 90,
+    "reviews": "180M",
+    "ratingAvg": 4.7,
+    "downloads": "10000M",
+    "ratings": [
+      { "name": "1 star", "count": 8000000 },
+      { "name": "2 star", "count": 5000000 },
+      { "name": "3 star", "count": 11000000 },
+      { "name": "4 star", "count": 23000000 },
+      { "name": "5 star", "count": 133000000 }
+    ]
+  },
+  {
+    "image": "https://static.vecteezy.com/system/resources/previews/018/930/744/non_2x/pinterest-logo-pinterest-transparent-free-png.png",
+    "title": "Pinterest",
+    "companyName": "Pinterest, Inc.",
+    "id": 11,
+    "description": "Discover new ideas for recipes, home design, fashion, and more.",
+    "size": 75,
+    "reviews": "9M",
+    "ratingAvg": 4.6,
+    "downloads": "1000M",
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 2000000 },
+      { "name": "5 star", "count": 5300000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg",
+    "title": "Facebook",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 12,
+    "description": "Connect with friends, share memories, and discover new communities.",
+    "size": 130,
+    "reviews": "200M",
+    "ratingAvg": 4.2,
+    "downloads": "10000M",
+    "ratings": [
+      { "name": "1 star", "count": 14000000 },
+      { "name": "2 star", "count": 9000000 },
+      { "name": "3 star", "count": 17000000 },
+      { "name": "4 star", "count": 32000000 },
+      { "name": "5 star", "count": 128000000 }
+    ]
+  },
+  {
+    "image": "https://static.vecteezy.com/system/resources/previews/012/871/376/non_2x/zoom-logo-in-blue-colors-meetings-app-logotype-illustration-free-png.png",
+    "title": "Zoom",
+    "companyName": "Zoom Video Communications, Inc.",
+    "id": 13,
+    "description": "Join video meetings, chat, and collaborate securely from anywhere.",
+    "size": 85,
+    "reviews": "8M",
+    "ratingAvg": 4.5,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 700000 },
+      { "name": "4 star", "count": 1500000 },
+      { "name": "5 star", "count": 5000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Google_Maps_icon_%282015-2020%29.svg/2048px-Google_Maps_icon_%282015-2020%29.svg.png",
+    "title": "Google Maps",
+    "companyName": "Google LLC",
+    "id": 14,
+    "description": "Navigate the world with accurate maps and real-time traffic updates.",
+    "size": 120,
+    "reviews": "165M",
+    "ratingAvg": 4.6,
+    "downloads": "10000M",
+    "ratings": [
+      { "name": "1 star", "count": 8000000 },
+      { "name": "2 star", "count": 4000000 },
+      { "name": "3 star", "count": 9000000 },
+      { "name": "4 star", "count": 26000000 },
+      { "name": "5 star", "count": 117000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/Google_Photos_icon_%282020%29.svg",
+    "title": "Google Photos",
+    "companyName": "Google LLC",
+    "id": 15,
+    "description": "Backup, organize, and share all your photos and videos easily.",
+    "size": 100,
+    "reviews": "60M",
+    "ratingAvg": 4.5,
+    "downloads": "5000M",
+    "ratings": [
+      { "name": "1 star", "count": 3000000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 6000000 },
+      { "name": "4 star", "count": 10000000 },
+      { "name": "5 star", "count": 39000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Microsoft_Teams.png",
+    "title": "Microsoft Teams",
+    "companyName": "Microsoft Corporation",
+    "id": 16,
+    "description": "Collaborate and chat with your team using Microsoft Teams.",
+    "size": 120,
+    "reviews": "8M",
+    "ratingAvg": 4.4,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": 600000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 700000 },
+      { "name": "4 star", "count": 1500000 },
+      { "name": "5 star", "count": 4800000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Podcasts_%28iOS%29.svg/2048px-Podcasts_%28iOS%29.svg.png",
+    "title": "Apple Podcasts",
+    "companyName": "Apple Inc.",
+    "id": 17,
+    "description": "Discover and listen to your favorite podcasts anytime, anywhere.",
+    "size": 60,
+    "reviews": "5M",
+    "ratingAvg": 4.3,
+    "downloads": "200M",
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 600000 },
+      { "name": "4 star", "count": 1200000 },
+      { "name": "5 star", "count": 2600000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/250px-LinkedIn_logo_initials.png",
+    "title": "LinkedIn",
+    "companyName": "Microsoft Corporation",
+    "id": 18,
+    "description": "Connect professionally and grow your career with LinkedIn.",
+    "size": 90,
+    "reviews": "15M",
+    "ratingAvg": 4.5,
+    "downloads": "1000M",
+    "ratings": [
+      { "name": "1 star", "count": 1000000 },
+      { "name": "2 star", "count": 700000 },
+      { "name": "3 star", "count": 1500000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 9200000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg",
+    "title": "Amazon Shopping",
+    "companyName": "Amazon Mobile LLC",
+    "id": 19,
+    "description": "Shop online for millions of products at great prices.",
+    "size": 120,
+    "reviews": "55M",
+    "ratingAvg": 4.6,
+    "downloads": "5000M",
+    "ratings": [
+      { "name": "1 star", "count": 3000000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 5000000 },
+      { "name": "4 star", "count": 10000000 },
+      { "name": "5 star", "count": 35000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Google_Drive_icon_%282020%29.svg/2295px-Google_Drive_icon_%282020%29.svg.png",
+    "title": "Google Drive",
+    "companyName": "Google LLC",
+    "id": 20,
+    "description": "Store files safely and share them with others easily.",
+    "size": 110,
+    "reviews": "88M",
+    "ratingAvg": 4.6,
+    "downloads": "10000M",
+    "ratings": [
+      { "name": "1 star", "count": 4000000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 8000000 },
+      { "name": "4 star", "count": 15000000 },
+      { "name": "5 star", "count": 59000000 }
+    ]
+  },
+  {
+    "image": "https://pngdownload.io/wp-content/uploads/2023/12/Reddit-Logo-emblem-of-the-online-platform-transparent-png-image-jpg.webp",
+    "title": "Reddit",
+    "companyName": "Reddit Inc.",
+    "id": 21,
+    "description": "Join communities, discuss interests, and share content with like-minded people.",
+    "size": 100,
+    "reviews": "30M",
+    "ratingAvg": 4.4,
+    "downloads": "1000M",
+    "ratings": [
+      { "name": "1 star", "count": 1500000 },
+      { "name": "2 star", "count": 1000000 },
+      { "name": "3 star", "count": 3000000 },
+      { "name": "4 star", "count": 7000000 },
+      { "name": "5 star", "count": 19500000 }
+    ]
+  },
+  {
+    "image": "https://static.vecteezy.com/system/resources/previews/023/741/147/non_2x/discord-logo-icon-social-media-icon-free-png.png",
+    "title": "Discord",
+    "companyName": "Discord Inc.",
+    "id": 22,
+    "description": "Chat, hang out, and build communities with voice, video, and text.",
+    "size": 110,
+    "reviews": "25M",
+    "ratingAvg": 4.5,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": 1200000 },
+      { "name": "2 star", "count": 800000 },
+      { "name": "3 star", "count": 2500000 },
+      { "name": "4 star", "count": 6000000 },
+      { "name": "5 star", "count": 14700000 }
+    ]
+  },
+  {
+    "image": "https://static.vecteezy.com/system/resources/previews/023/986/672/non_2x/tinder-app-logo-tinder-app-logo-transparent-tinder-app-icon-transparent-free-free-png.png",
+    "title": "Tinder",
+    "companyName": "Tinder Inc.",
+    "id": 23,
+    "description": "Swipe, match, and chat with new people around the world.",
+    "size": 90,
+    "reviews": "12M",
+    "ratingAvg": 4.2,
+    "downloads": "1000M",
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 1000000 },
+      { "name": "3 star", "count": 2500000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "5 star", "count": 3500000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Skype-icon-new.png",
+    "title": "Skype",
+    "companyName": "Microsoft Corporation",
+    "id": 24,
+    "description": "Chat and video call with friends, family, or colleagues anywhere.",
+    "size": 100,
+    "reviews": "15M",
+    "ratingAvg": 4.3,
+    "downloads": "1000M",
+    "ratings": [
+      { "name": "1 star", "count": 1200000 },
+      { "name": "2 star", "count": 800000 },
+      { "name": "3 star", "count": 2000000 },
+      { "name": "4 star", "count": 4000000 },
+      { "name": "5 star", "count": 9000000 }
+    ]
+  },
+  {
+    "image": "https://1000logos.net/wp-content/uploads/2020/08/Shazam-Logo.png",
+    "title": "Shazam",
+    "companyName": "Apple Inc.",
+    "id": 25,
+    "description": "Identify songs instantly and explore music you love.",
+    "size": 60,
+    "reviews": "7M",
+    "ratingAvg": 4.6,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 700000 },
+      { "name": "4 star", "count": 1200000 },
+      { "name": "5 star", "count": 4500000 }
+    ]
+  },
+  {
+    "image": "https://download.logo.wine/logo/TripAdvisor/TripAdvisor-Logo.wine.png",
+    "title": "TripAdvisor",
+    "companyName": "TripAdvisor LLC",
+    "id": 26,
+    "description": "Plan trips, read reviews, and book hotels and activities worldwide.",
+    "size": 90,
+    "reviews": "5M",
+    "ratingAvg": 4.4,
+    "downloads": "200M",
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "4 star", "count": 1000000 },
+      { "name": "5 star", "count": 3150000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Strava_Logo.svg/2560px-Strava_Logo.svg.png",
+    "title": "Strava",
+    "companyName": "Strava, Inc.",
+    "id": 27,
+    "description": "Track your workouts, connect with athletes, and share your progress.",
+    "size": 80,
+    "reviews": "4M",
+    "ratingAvg": 4.7,
+    "downloads": "100M",
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 100000 },
+      { "name": "3 star", "count": 300000 },
+      { "name": "4 star", "count": 700000 },
+      { "name": "5 star", "count": 2700000 }
+    ]
+  },
+  {
+    "image": "https://cdn.freebiesupply.com/logos/large/2x/flipkart-logo-png-transparent.png",
+    "title": "Flipkart",
+    "companyName": "Flipkart Internet Pvt Ltd",
+    "id": 28,
+    "description": "Shop online for electronics, fashion, and more with Flipkart.",
+    "size": 110,
+    "reviews": "10M",
+    "ratingAvg": 4.5,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 900000 },
+      { "name": "4 star", "count": 2000000 },
+      { "name": "5 star", "count": 7100000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png",
+    "title": "Instagram",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 29,
+    "description": "Share photos, stories, and connect with friends across the world.",
+    "size": 130,
+    "reviews": "155",
+    "ratingAvg": 4.3,
+    "downloads": "5000M",
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 5 },
+      { "name": "3 star", "count": 12 },
+      { "name": "4 star", "count": 24 },
+      { "name": "5 star", "count": 103 }
+    ]
+  },
+  {
+    "image": "https://png.pngtree.com/png-vector/20231017/ourmid/pngtree-youtube-play-button-sign-video-icon-logo-online-broadcasting-service-symbol-png-image_10292108.png",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "id": 30,
+    "description": "Watch, upload, and share videos from creators around the world.",
+    "size": 115,
+    "reviews": "145",
+    "ratingAvg": 4.4,
+    "downloads": "10000M",
+    "ratings": [
+      { "name": "1 star", "count": 8 },
+      { "name": "2 star", "count": 5 },
+      { "name": "3 star", "count": 9 },
+      { "name": "4 star", "count": 22 },
+      { "name": "5 star", "count": 104 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/c/c4/Snapchat_logo.svg",
+    "title": "Snapchat",
+    "companyName": "Snap Inc.",
+    "id": 31,
+    "description": "Snap moments, chat with friends, and explore short videos and stories.",
+    "size": 95,
+    "reviews": "34",
+    "ratingAvg": 4.2,
+    "downloads": "1000M",
+    "ratings": [
+      { "name": "1 star", "count": 2.5 },
+      { "name": "2 star", "count": 2 },
+      { "name": "3 star", "count": 3.5 },
+      { "name": "4 star", "count": 8 },
+      { "name": "5 star", "count": 18 }
+    ]
+  },
+  {
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/016/716/485/small/tiktok-icon-free-png.png",
+    "title": "TikTok",
+    "companyName": "TikTok Pte. Ltd.",
+    "id": 32,
+    "description": "Create and discover short videos with fun music and effects.",
+    "size": 120,
+    "reviews": "95",
+    "ratingAvg": 4.4,
+    "downloads": "5000M",
+    "ratings": [
+      { "name": "1 star", "count": 6 },
+      { "name": "2 star", "count": 4 },
+      { "name": "3 star", "count": 9 },
+      { "name": "4 star", "count": 19 },
+      { "name": "5 star", "count": 57 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Netflix_icon.svg/2048px-Netflix_icon.svg.png",
+    "title": "Netflix",
+    "companyName": "Netflix, Inc.",
+    "id": 33,
+    "description": "Watch your favorite TV shows, movies, and exclusive Netflix Originals.",
+    "size": 80,
+    "reviews": "12.5",
+    "ratingAvg": 4.5,
+    "downloads": "1000M",
+    "ratings": [
+      { "name": "1 star", "count": 0.9 },
+      { "name": "2 star", "count": 0.7 },
+      { "name": "3 star", "count": 1.5 },
+      { "name": "4 star", "count": 3 },
+      { "name": "5 star", "count": 7.4 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg",
+    "title": "Telegram",
+    "companyName": "Telegram FZ-LLC",
+    "id": 34,
+    "description": "Fast, secure messaging app with cloud sync and powerful privacy features.",
+    "size": 70,
+    "reviews": "12",
+    "ratingAvg": 4.6,
+    "downloads": "1000M",
+    "ratings": [
+      { "name": "1 star", "count": 0.7 },
+      { "name": "2 star", "count": 0.5 },
+      { "name": "3 star", "count": 1 },
+      { "name": "4 star", "count": 2.5 },
+      { "name": "5 star", "count": 7.3 }
+    ]
+  },
+  {
+    "image": "https://static.vecteezy.com/system/resources/previews/048/759/334/non_2x/canva-transparent-icon-free-png.png",
+    "title": "Canva",
+    "companyName": "Canva",
+    "id": 35,
+    "description": "Design stunning graphics, presentations, and social media posts easily.",
+    "size": 85,
+    "reviews": "11",
+    "ratingAvg": 4.8,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": 0.4 },
+      { "name": "2 star", "count": 0.3 },
+      { "name": "3 star", "count": 0.8 },
+      { "name": "4 star", "count": 2 },
+      { "name": "5 star", "count": 7.5 }
+    ]
+  },
+  {
+    "image": "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/waze-icon.png",
+    "title": "Waze",
+    "companyName": "Google LLC",
+    "id": 36,
+    "description": "Community-based GPS navigation to avoid traffic and save time.",
+    "size": 70,
+    "reviews": "6M",
+    "ratingAvg": 4.5,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 100000 },
+      { "name": "3 star", "count": 400000 },
+      { "name": "4 star", "count": 1200000 },
+      { "name": "5 star", "count": 4300000 }
+    ]
+  },
+  {
+    "image": "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/306_Slack_logo-512.png",
+    "title": "Slack",
+    "companyName": "Slack Technologies",
+    "id": 37,
+    "description": "Messaging and collaboration platform for teams and workplaces.",
+    "size": 120,
+    "reviews": "7M",
+    "ratingAvg": 4.6,
+    "downloads": "400M",
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "4 star", "count": 1500000 },
+      { "name": "5 star", "count": 4500000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/ProtonMail_Logo.svg",
+    "title": "ProtonMail",
+    "companyName": "Proton AG",
+    "id": 38,
+    "description": "Secure email service with end-to-end encryption for privacy.",
+    "size": 60,
+    "reviews": "3M",
+    "ratingAvg": 4.8,
+    "downloads": "100M",
+    "ratings": [
+      { "name": "1 star", "count": 100000 },
+      { "name": "2 star", "count": 50000 },
+      { "name": "3 star", "count": 200000 },
+      { "name": "4 star", "count": 500000 },
+      { "name": "5 star", "count": 2150000 }
+    ]
+  },
+  {
+    "image": "https://cdn.freebiesupply.com/logos/large/2x/dropbox-2-logo-png-transparent.png",
+    "title": "Dropbox",
+    "companyName": "Dropbox, Inc.",
+    "id": 39,
+    "description": "Cloud storage to backup, organize, and access files from anywhere.",
+    "size": 100,
+    "reviews": "8M",
+    "ratingAvg": 4.5,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 1000000 },
+      { "name": "4 star", "count": 2000000 },
+      { "name": "5 star", "count": 4300000 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTd_7jUMZ5b0Eh6i3I7RSwJfSvjNBtjx5kzA&s",
+    "title": "Adobe Illustrator",
+    "companyName": "Adobe Inc.",
+    "id": 40,
+    "description": "Create vector graphics and illustrations for digital and print.",
+    "size": 150,
+    "reviews": "5M",
+    "ratingAvg": 4.7,
+    "downloads": "200M",
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "4 star", "count": 1000000 },
+      { "name": "5 star", "count": 3150000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/PayPal_logo.svg",
+    "title": "PayPal",
+    "companyName": "PayPal Holdings, Inc.",
+    "id": 41,
+    "description": "Send, receive, and manage money safely worldwide.",
+    "size": 80,
+    "reviews": "12M",
+    "ratingAvg": 4.6,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 1000000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 8000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Yelp_Logo.svg",
+    "title": "Yelp",
+    "companyName": "Yelp Inc.",
+    "id": 42,
+    "description": "Find and review local businesses, restaurants, and services.",
+    "size": 90,
+    "reviews": "6M",
+    "ratingAvg": 4.4,
+    "downloads": "200M",
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 700000 },
+      { "name": "4 star", "count": 1500000 },
+      { "name": "5 star", "count": 3350000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Skype_for_Business_logo.svg",
+    "title": "Skype for Business",
+    "companyName": "Microsoft Corporation",
+    "id": 43,
+    "description": "Enterprise-grade messaging and video calls for teams.",
+    "size": 100,
+    "reviews": "4M",
+    "ratingAvg": 4.3,
+    "downloads": "100M",
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 100000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "4 star", "count": 1000000 },
+      { "name": "5 star", "count": 2200000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Medium_logo_Monogram.svg",
+    "title": "Medium",
+    "companyName": "Medium Corporation",
+    "id": 44,
+    "description": "Read and write articles, explore ideas, and share your thoughts.",
+    "size": 70,
+    "reviews": "3M",
+    "ratingAvg": 4.5,
+    "downloads": "100M",
+    "ratings": [
+      { "name": "1 star", "count": 150000 },
+      { "name": "2 star", "count": 100000 },
+      { "name": "3 star", "count": 300000 },
+      { "name": "4 star", "count": 700000 },
+      { "name": "5 star", "count": 1950000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Grammarly_Logo.svg",
+    "title": "Grammarly",
+    "companyName": "Grammarly, Inc.",
+    "id": 45,
+    "description": "Enhance writing with AI-powered grammar, spelling, and style suggestions.",
+    "size": 60,
+    "reviews": "4M",
+    "ratingAvg": 4.7,
+    "downloads": "100M",
+    "ratings": [
+      { "name": "1 star", "count": 100000 },
+      { "name": "2 star", "count": 50000 },
+      { "name": "3 star", "count": 300000 },
+      { "name": "4 star", "count": 500000 },
+      { "name": "5 star", "count": 3050000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Notion_logo.svg",
+    "title": "Notion",
+    "companyName": "Notion Labs Inc.",
+    "id": 46,
+    "description": "Organize notes, tasks, and projects in one workspace.",
+    "size": 80,
+    "reviews": "3.5M",
+    "ratingAvg": 4.6,
+    "downloads": "100M",
+    "ratings": [
+      { "name": "1 star", "count": 100000 },
+      { "name": "2 star", "count": 50000 },
+      { "name": "3 star", "count": 300000 },
+      { "name": "4 star", "count": 500000 },
+      { "name": "5 star", "count": 2550000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Asana_logo.svg",
+    "title": "Asana",
+    "companyName": "Asana, Inc.",
+    "id": 47,
+    "description": "Manage projects, track tasks, and collaborate with your team efficiently.",
+    "size": 90,
+    "reviews": "3M",
+    "ratingAvg": 4.5,
+    "downloads": "100M",
+    "ratings": [
+      { "name": "1 star", "count": 100000 },
+      { "name": "2 star", "count": 50000 },
+      { "name": "3 star", "count": 300000 },
+      { "name": "4 star", "count": 500000 },
+      { "name": "5 star", "count": 2550000 }
+    ]
+  }
+]

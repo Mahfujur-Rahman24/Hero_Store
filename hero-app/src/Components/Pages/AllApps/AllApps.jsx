@@ -49,7 +49,7 @@ const AllApps = () => {
          
           <div className='gap-5 mb-20 grid lg:grid-cols-4 md:grid-cols-2 grid-cols-1'>
             {filteredApps.length > 0 ? (
-              filteredApps.map(app => <SingleApps key={app.id} app={app} />)
+              filteredApps.map(app => <SingleApps key={app.id} app={app}></SingleApps>)
             ) : (
                 <div className="flex justify-center items-center col-span-full">
       <NoAppFound></NoAppFound>

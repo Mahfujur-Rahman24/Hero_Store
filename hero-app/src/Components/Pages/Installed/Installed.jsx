@@ -28,19 +28,18 @@ const Installed = () => {
 
   const handleSort = (type) => {
     setSort(type);
-    if (type === "size") {
-      const sortedBySize = [...installedApp].sort((a, b) => b.size - a.size);
-      setInstalledApp(sortedBySize);
+    if (type === "High-Low") {
+      const sortedHighTOLow = [...installedApp].sort((a, b) =>b.size - a.size);
+      setInstalledApp(sortedHighTOLow);
     }
-    if (type === "ratings") {
-      const sortedByRatings = [...installedApp].sort((a, b) => b.ratingAvg - a.ratingAvg);
-      setInstalledApp(sortedByRatings);
+    if (type === "Low-High") {
+      const sortedLowToHigh = [...installedApp].sort((a, b) => a.size - b.size);
+      setInstalledApp(sortedLowToHigh);
     }
   };
 
   return (
     <div className="w-11/12 mx-auto my-10">
-      {/* Toast container */}
       <ToastContainer />
 
       <div className='text-center mt-20'>
@@ -56,12 +55,12 @@ const Installed = () => {
 
           <div className="dropdown dropdown-bottom dropdown-center">
             <div tabIndex={0} role="button" className="btn m-1 text-[#8394a3] border-[#D2D2D2]">
-              Sort By {sort ? sort : ""} <FontAwesomeIcon icon={faCircleChevronDown} />
+               {sort ? sort : "Sort By"} <FontAwesomeIcon icon={faCircleChevronDown} />
             </div>
 
             <ul tabIndex="-1" className="dropdown-content menu bg-base-100 rounded-box z-1 w-52 p-2 shadow-sm">
-              <li><a onClick={() => handleSort("size")}>Sort By Size</a></li>
-              <li><a onClick={() => handleSort("ratings")}>Sort By Rating</a></li>
+              <li><a onClick={() => handleSort("High-Low")}>High-Low</a></li>
+              <li><a onClick={() => handleSort("Low-High")}>Low-High</a></li>
             </ul>
           </div>
         </div>

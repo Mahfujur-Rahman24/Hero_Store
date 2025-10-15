@@ -47,7 +47,7 @@ const Navbar = () => {
           <a href="/" className='flex gap-1 text-xl'>
            <img src={Logo} alt="" className='h-7 w-full' />
            <span className='font-bold text-base bg-gradient-to-br from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent '>
-           Hero.io
+           ZenEcho
            </span>
           </a>
           </div>

@@ -10,7 +10,7 @@ const Banner = () => {
       <h1 className="text-7xl font-bold ">We Build <br />
 <span className='bg-gradient-to-br from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent font-black text-7xl '>Productive</span> Apps</h1>
       <p className="text-lg font-normal mt-6 mb-6">
-        At HERO.IO, we craft innovative apps designed to make everyday life simpler,
+        At ZenEcho, we craft innovative apps designed to make everyday life simpler,
          smarter, and more exciting. <br /> Our goal is to turn your ideas into digital experiences that truly make an impact.
       </p>
       <div className='flex justify-center gap-4 mb-7'>

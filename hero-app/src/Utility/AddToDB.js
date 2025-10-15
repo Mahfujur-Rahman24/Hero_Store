@@ -15,6 +15,7 @@ const addToStoredDB = (id) => {
   }
 };
 
+
 const removeFromStoredDB = (id) => {
   const storedAppData = getStoredApp();
   const updatedData = storedAppData.filter(appId => appId !== id);
